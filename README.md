@@ -32,7 +32,7 @@ I’m a quick learner who values clean, maintainable code and follows design pat
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Julkul1&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Julkul1&show_icons=true&theme=default&hide_border=true&count_private=true&v=2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julkul1&layout=compact&theme=default&hide_border=true)
 
